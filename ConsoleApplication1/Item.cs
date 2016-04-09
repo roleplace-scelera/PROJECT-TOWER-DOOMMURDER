@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TowerMurderDoom
 {
-    class Program
+    class Item
     {
-        static void Main(string[] args)
-        {
-        }
+        internal List<statModifier>;
     }
 }

@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TowerMurderDoom
 {
-    class Program
+    interface Interactable
     {
-        static void Main(string[] args)
-        {
-        }
+        void Investigate();
     }
 }
